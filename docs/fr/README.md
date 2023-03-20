@@ -15,7 +15,7 @@ Nous utilisons la technologie de la blockchain afin de proposer des actifs d'exc
 
 Grandma-Factory propose une plateforme de finance décentralisée permettant d'investir dans de nombreux biens issus du domaine du luxe.
 Les investissements judicieusement sélectionnés sur les marchés de collectionneurs peuvent être très rentables. Seule une infime minorité de la population mondiale y accède aujourd'hui. 
-Grandma-Factory œuvre à changer cette réalité limitante et ouvre cette classe d'actifs à la finance décentralisée (DeFi) en proposant des biens tangibles, anti-fragiles et sûr, à l'heure où l'incertitude économique plane dans le monde.
+Grandma-Factory œuvre à changer cette réalité limitante et ouvre cette classe d'actifs à la finance décentralisée (DeFi) en proposant des biens tangibles, anti-fragiles et sûrs, à l'heure où l'incertitude économique plane dans le monde.
 
 
 ### Notre approche
@@ -75,7 +75,7 @@ Ce marché en plein essor à travers le monde est difficilement accessible au pl
 
 #### Et bien d'autres
 
-Grandma-Factory à la volonté de proposer un maximum de secteurs pour fournir aux détenteurs de cryto-monnaies de multiples possibilités de diversification dans leurs actifs.
+Grandma-Factory à la volonté de proposer un maximum de secteurs pour fournir aux détenteurs de crypto-monnaies de multiples possibilités de diversification dans leurs actifs.
 Plusieurs de ces domaines, déjà identifiés, viendront enrichir la plateforme au fil du temps (oeuvres d'art, accessoires de luxe, vin...)
 
 
@@ -84,7 +84,7 @@ Plusieurs de ces domaines, déjà identifiés, viendront enrichir la plateforme 
 La plateforme Grandma-Factory est accessible grâce à une application web. 
 L'objectif premier de la plateforme est d'offrir à l'utilisateur un moyen efficace de parcourir les différents actifs disponibles.
 Les utilisateurs peuvent consulter la liste des actifs en leurs possessions dans une rubrique dédiée.
-Par ailleurs, cette application offre aux utilisateurs toutes les fonctionnalités nécessaires à l'intéraction avec les différents smart-contracts.
+Par ailleurs, cette application offre aux utilisateurs toutes les fonctionnalités nécessaires à l'interaction avec les différents smart-contracts.
 
 
 ### Grandma NFTs
@@ -109,7 +109,7 @@ Les Grandma F-NFTs sont listés sur la plateforme Grandma-Factory et les utilisa
 ### Grandma Incubator
 
 Afin d'alimenter la plateforme en nouveaux actifs, Grandma-Factory propose aux vendeurs privés ou institutionnels de vendre leurs actifs sous forme de Grandma NFT au sein de **l'incubateur** de la plateforme. Cet incubateur permet la création de nouveaux Grandma NFT disponibles à l'achat.
-nt
+
 Ces actifs doivent être expertisés en amont afin de les proposer à des prix pertinants en adéquation avec le marché.
 Une fois leurs prix de vente atteints, Grandma-Factory procède à l'achat des biens et les conserve dans ses réserves.
 
@@ -127,10 +127,10 @@ Pour acheter un Grandma NFT dans l'incubateur, deux solutions s'offrent à l'uti
 ### Grandma ASCs
 
 Grandma-Factory propose aux utilisateurs un concept nommé **AlmostStableCoin**.
-Un ASC est un jeton compatible avec la norme **ERC-20**. Il a pour caractérisque d'être collatéralisé par un ensemble d'actifs Grandma.
+Un ASC est un jeton compatible avec la norme **ERC-20**. Il a pour caractéristique d'être collatéralisé par un ensemble d'actifs Grandma.
 Ainsi, il peut être composé de Grandma NFTs, de fractions de Grandma F-NFTs et également d'autres Grandma ASCs.
 La valeur des jetons d'un ASC reflète la valeur cumulée des différents actifs qui le composent. 
-Les ASCs sont thématiques et permettent aux investisseurs de cibler un marché tous en bénéficiant d'une diversitication sur plusieurs actifs.
+Les ASCs sont thématiques et permettent aux investisseurs de cibler un marché tout en bénéficiant d'une diversitication sur plusieurs actifs.
 Le smart-contract de l'ASC est propriétaire des actifs qui le composent et la blockchain atteste à tout moment de son état.
 
 Les Grandma ASCs sont listés sur l'application web.
@@ -178,7 +178,7 @@ Il pourra également prêter ses actifs afin d'être rémunéré.
 
 #### Oracles de prix
 
-Afin d'offrir de nouvelles perspectives sur la plateforme, Grandma-Factory prévoit la mise à place d'oracles de prix pour ses différents actifs.
+Afin d'offrir de nouvelles perspectives sur la plateforme, Grandma-Factory prévoit la mise en place d'oracles de prix pour ses différents actifs.
 Ces oracles permettront d'intégrer de nouvelles fonctionnalités directement sur la blockchain en proposant des données sur les estimations des actifs aux smart-contracts.
 
 
@@ -189,17 +189,17 @@ Grandma-Factory proposera un marché OTC afin de permettre aux clients privés e
 
 ## Politique de transparence
 
-Grandma-Factory souhaite construire un écosystème perein et cela se concrétise par plusieurs axes qui sont développés ci-après.
+Grandma-Factory souhaite construire un écosystème pérenne et cela se concrétise par plusieurs axes qui sont développés ci-après.
 
 
 ### Code Open Source
 
-Les smart-contracts publiés par Grandma-Factory sont entièrement **Open Source** afin de proposer aux utilisateurs le maximum de transparence quant aux intéractions avec la blockchain.
+Les smart-contracts publiés par Grandma-Factory sont entièrement **Open Source** afin de proposer aux utilisateurs le maximum de transparence quant aux interactions avec la blockchain.
 
 
 ### Audits des smart-contracts
 
-Les smart-contracts développés par Grandma-Factory seront audités par au moins un acteur majeur de l'audit de la finance décentralisé.
+Les smart-contracts développés par Grandma-Factory seront audités par au moins un acteur majeur de l'audit de la finance décentralisée.
 Grandma-Factory s'engage à mettre en place des programmes de récompenses pour la recherche et publication de failles de sécurité.
 
 
@@ -219,7 +219,7 @@ Grandma-Factory s'engage à ne pas mettre en risque les fonds de la société su
 Grandma-Factory se réserve le droit de participer à la preuve d'enjeu du réseau Ethereum avec ses fonds inactifs.
 
 
-## Economie des Tokens (Tokenomics)
+## Economie des jetons (Tokenomics)
 
 ### Grandma-Token (GMA)
 
@@ -227,13 +227,13 @@ Grandma-Token (GMA) est le jeton utilitaire de la plateforme. Ce jeton a plusieu
 1. Le GMA permet d'apporter de la liquidité sur les différents ASCs proposés sur la plateforme.
 2. La GMA permet aux utilisateurs de payer les frais à prix réduit sur la plateforme.
 3. La détention de GMA permet aux utilisateurs d'obtenir des récompenses en verrouillant leurs jetons.
-4. La gourvernance de la plateforme Grandma-Factory implique les détenteurs de tokens GMA.
-5. Le GMA sera utiliser pour rémunérer les utilisateurs pour les futures services de la plateforme.
+4. La gourvernance de la plateforme Grandma-Factory implique les détenteurs de jetons GMA.
+5. Le GMA sera utiliser pour rémunérer les utilisateurs pour les futurs services de la plateforme.
 
 D'autres usages seront attribués au GMA au fur et à mesure du développement de l'écosystème.
 
 
-**Caractéristiques** du Jeton :
+**Caractéristiques** du jeton :
 
 - Ticker: **GMA** 
 - Chain: **Ethereum** 
