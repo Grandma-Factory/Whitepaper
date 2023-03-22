@@ -8,15 +8,15 @@
 ## Overview
 
 
-Grandma-Factory is a **decentralised finance platform** focused on luxury and collectible products.
+Grandma-Factory is a **decentralized finance platform** focused on luxury and collectible products.
 We use blockchain technology to provide exceptional assets for all.
 
 
 ### Objectives
 
-Grandma-Factory offers a decentralised finance platform for investing in a wide range of luxury goods.
+Grandma-Factory offers a decentralized finance platform for investing in a wide range of luxury goods.
 Whisely selected investments in collectors' markets can be very profitable. Only a tiny minority of the world's population has access to them today. 
-Grandma-Factory is working to change this limiting reality and is opening up this asset class to decentralised finance (DeFi) by offering tangible, anti-fragile and secure assets at a time of economic uncertainty around the world.
+Grandma-Factory is working to change this limiting reality and is opening up this asset class to decentralized finance (DeFi) by offering tangible, anti-fragile and secure assets at a time of economic uncertainty around the world.
 
 
 ### Approach
@@ -144,7 +144,7 @@ It can also view the composition of the token as well as the valuation of the to
 
 #### Liquidity Pools
 
-The **Liquitidy Pools** allows users to invest their tokens (Grandma-Tokens & ASCs) on the Grandma-Factory platform in order to be rewarded by different decentralised protocols. 
+The **Liquitidy Pools** allows users to invest their tokens (Grandma-Tokens & ASCs) on the Grandma-Factory platform in order to be rewarded by different decentralized protocols. 
 
 Grandma-Factory wants to offer users liquidity pools directly on its platform. We will distribute liquidity on DeFi's protocols by optimising the return on the Pools in order to best remunerate the participants. 
 
@@ -199,7 +199,7 @@ The smart-contracts published by Grandma-Factory are entirely **Open Source** in
 
 The codes developed by Grandma-Factory will be audited by at least one major DeFi audit actor. Grandma-Finance also commits to setting up bounty programs for the research of security vulnerabilities.
 
-The smart-contracts developed by Grandma-Factory will be audited by at least one major player in the audit of decentralised finance.
+The smart-contracts developed by Grandma-Factory will be audited by at least one major player in the audit of decentralized finance.
 Grandma-Factory is committed to implementing bounty programs for the investigation and publication of security flaws.
 
 
