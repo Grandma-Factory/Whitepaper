@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.1
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.2
 </p>
 
 > La première plateforme de NFTs pour produits de luxe.
@@ -238,8 +238,8 @@ D'autres usages seront attribués au GMA au fur et à mesure du développement d
 - Ticker: **GMA** 
 - Chain: **Ethereum** 
 - Type: **ERC777** (ERC20 Compatible)
-- ICO prix d'un token: **1 GMA = 0.01 USD**
-- Objectif de l'ICO: **3,000,000 USD**
+- ICO prix d'un token: **1 GMA = 0.005 USD**
+- Objectif de l'ICO: **1,500,000 USD**
 - Nombre total de jetons: **10,000,000,000 GMA**
 - Distribution des jetons de l'équipe: **10% tous les 3 mois**
 
@@ -247,8 +247,8 @@ Les jetons non vendus seront détruits à l'issue de l'ICO.
 
 **Distribution** du jeton GMA :
 
-- 6,000,000,000 Vente public
-- 2,000,000,000 Vente privée
+- 7,500,000,000 Vente public
+- 500,000,000   Vente privée
 - 1,000,000,000 Ecosystème
 - 1,000,000,000 Fond de développement
 
@@ -262,8 +262,8 @@ Le verrouillage de ces jetons est compensé par l'attribution d'un NFT spécifiq
 Trois niveaux de récompense sont identifiés:
 
 - "**Coton**", pour le verrouillage de 10,000 GMA
-- "**Cachemire**", pour le verrouillage de 100,000 GMA
-- "**Soie**", pour le verrouillage de 1,000,000 GMA
+- "**Cachemire**", pour le verrouillage de 500,000 GMA
+- "**Soie**", pour le verrouillage de 10,000,000 GMA
 
 Le premier avantage pour le détenteur d'un NFT de récompense est de bénéficier d'une réduction des frais de la plateforme.
 La réduction des frais de transaction est de **5%** pour le niveau "Coton", de **15%** pour le niveau "Cachemire" et de **40%** pour le niveau "Soie".

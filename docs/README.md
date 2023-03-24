@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.1
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.2
 </p>
 
 > The first NFT marketplace focused on luxury collectible assets.
@@ -243,8 +243,8 @@ Other use cases will be assigned to the GMA token as the ecosystem develops and 
 - Ticker: **GMA**
 - Chain: **Ethereum** 
 - Type: **ERC777** (ERC20 Compatible)
-- ICO Token Price: **1 GMA = 0.01 USD**
-- Fundraising Goal: **3,000,000 USD**
+- ICO Token Price: **1 GMA = 0.005 USD**
+- Fundraising Goal: **1,500,000 USD**
 - Total Tokens: **10,000,000,000 GMA**
 - Team distribution schedule: **10% each 3 months**
 
@@ -252,8 +252,8 @@ Unsold tokens will be burned at the end of the ICO.
 
 **Distribution** of the GMA token :
 
-- 6,000,000,000 Public sale
-- 2,000,000,000 Private sale
+- 7,500,000,000 Public sale
+- 500,000,000   Private sale
 - 1,000,000,000 Ecosystem
 - 1,000,000,000 Development fund
 
@@ -267,8 +267,8 @@ The staking of these tokens is compensated by the allocation of a specific NFT w
 Three levels of reward are identified:
 
 - **Cotton**, for the locking of 10,000 GMA
-- **Kashmir**, for the locking of 100,000 GMA
-- **Silk**, for the 1,000,000 GMA lock
+- **Kashmir**, for the locking of 500,000 GMA
+- **Silk**, for the 10,000,000 GMA lock
 
 The first benefit for the holder of an NFT reward is a reduction in platform fees.
 The transaction fee reduction is **5%** for the "Cotton" level, **15%** for the "Kashmir" level and **40%** for the "Silk" level.
