@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.2
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.3
 </p>
 
 > The first NFT marketplace focused on luxury collectible assets.
@@ -252,28 +252,30 @@ Unsold tokens will be burned at the end of the ICO.
 
 **Distribution** of the GMA token :
 
-- 7,500,000,000 Public sale
+- 7,000,000,000 Public sale
 - 500,000,000   Private sale
 - 1,000,000,000 Ecosystem
 - 1,000,000,000 Development fund
+- 250,000,000   Marketing
+- 250,000,000   Community rewards
 
 
 ### Awards
 
-Grandma-Token holders can obtain benefits related to the number of tokens in their possession. 
-To benefit from these rewards, the user must first stake tokens to Grandma-Factory for a defined period.
-The staking of these tokens is compensated by the allocation of a specific NFT which activates the reward system on the platform.
+The Grandma-Reward program is a unique staking program that allows users to collect a portion of the platform fees.
+When a user performs a transaction on the Grandma-Factory platform, a fee is charged. 15% of these fees will be redistributed within the Grandma-Reward program.
 
-Three levels of reward are identified:
+To benefit from this remuneration, the user must stack Grandma-Token tokens on a Grandma-Reward pool. 
+In exchange for locking these tokens, the user receives liquidity tokens that activate the rewards system.
 
-- **Cotton**, for the locking of 10,000 GMA
-- **Kashmir**, for the locking of 500,000 GMA
-- **Silk**, for the 10,000,000 GMA lock
+Users can increase their yield by staking a certain amount of tokens. 
+Three reward levels are identified in this regard:
 
-The first benefit for the holder of an NFT reward is a reduction in platform fees.
-The transaction fee reduction is **5%** for the "Cotton" level, **15%** for the "Kashmir" level and **40%** for the "Silk" level.
+- **Cotton**, boost by a **1.15x** multiplier for locking a minimum of **10,000 GMA**
+- **Kashmir**, boost by a **1.5x** multiplier for locking a minimum of **500,000 GMA**
+- **Silk**, boost by a **3x** multiplier for locking a minimum of **10,000,000 GMA**
 
-The second benefit is increased influence within the Grandma Republic system.
+The second benefit is increased influence within the Grandma-Republic system.
 The "Cotton", "Kashmir" and "Silk" levels have **2x**, **3x** and **5x** more influence in the votes cast for the community respectively.
 
 These awards are given as an indication, Grandma-Factory reserves the right to ajust them.

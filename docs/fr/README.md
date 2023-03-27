@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.2
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.3
 </p>
 
 > La première plateforme de NFTs pour produits de luxe.
@@ -247,31 +247,34 @@ Les jetons non vendus seront détruits à l'issue de l'ICO.
 
 **Distribution** du jeton GMA :
 
-- 7,500,000,000 Vente public
+- 7,000,000,000 Vente public
 - 500,000,000   Vente privée
 - 1,000,000,000 Ecosystème
 - 1,000,000,000 Fond de développement
+- 250,000,000   Marketing et communication
+- 250,000,000   Récompense pour la communauté
 
 
 ### Récompenses
 
-Les détenteurs de Grandma-Token peuvent obtenir des avantages relatifs au nombre de jetons en leurs possession. 
-Pour bénéficier de ces récompenses, l'utilisateur doit en premier lieu verrouiller des jetons sur Grandma-Factory pour une période définie.
-Le verrouillage de ces jetons est compensé par l'attribution d'un NFT spécifique qui active le système de récompense sur la plateforme.
+Le programme de récompenses Grandma-Reward est un programme de staking unique qui permet aux utilisateurs de collecter une partie des frais de la plateforme.
+Quand un utilisateur effectue une transaction sur la plateforme Grandma-Factory, des frais lui sont appliqués. **15%** de ces frais seront redistribués au sein du programme de récompenses Grandma-Reward.
 
-Trois niveaux de récompense sont identifiés:
+Pour bénéficier de cette rémunération, l'utilisateur doit verrouiller des jetons Grandma-Token sur une pool de récompense Grandma-Reward.
+En contrepartie du verrouillage de ces jetons, l'utilisateur perçoit des jetons de liquidité qui activent le système de récompense.
 
-- "**Coton**", pour le verrouillage de 10,000 GMA
-- "**Cachemire**", pour le verrouillage de 500,000 GMA
-- "**Soie**", pour le verrouillage de 10,000,000 GMA
+Les utilisateurs peuvent accroître leur rendement en mettant en jeu un certain montant de jetons. 
+Trois niveaux de récompenses sont identifiées en ce sens:
 
-Le premier avantage pour le détenteur d'un NFT de récompense est de bénéficier d'une réduction des frais de la plateforme.
-La réduction des frais de transaction est de **5%** pour le niveau "Coton", de **15%** pour le niveau "Cachemire" et de **40%** pour le niveau "Soie".
+- "**Coton**", offre un multiplicateur de **x1.15** pour le verrouillage de **10,000 GMA** minimum
+- "**Cachemire**",  offre un multiplicateur de **x1.5** pour le verrouillage de **500,000 GMA** minimum
+- "**Soie**", offre un multiplicateur de **x3** pour le verrouillage de **10,000,000 GMA** minimum.
 
-Le second avantage est une influence accrue au sein du système Grandma Republic.
+Le second avantage est une influence accrue au sein du système Grandma-Republic.
 Les niveaux "Coton", "Cachemire" et "Soie"  bénéficient respectivement de **2x**, **3x** et **5x** plus d'influence dans les votes proposés à la communauté.
 
 Ces récompenses sont communiquées à titre indicatif, Grandma-Factory se réserve le droit de les faire évoluer.
+
 
 ## Ecosytème technique de la plateforme
 
