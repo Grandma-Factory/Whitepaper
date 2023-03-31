@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.3
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.4
 </p>
 
 > La première plateforme de NFTs pour produits de luxe.
@@ -248,20 +248,20 @@ Les jetons non vendus seront détruits à l'issue de l'ICO.
 **Distribution** du jeton GMA :
 
 - 7,000,000,000 Vente public
-- 500,000,000   Vente privée
+- 500,000,000   Prévente
 - 1,000,000,000 Ecosystème
 - 1,000,000,000 Fond de développement
 - 250,000,000   Marketing et communication
-- 250,000,000   Récompense pour la communauté
+- 250,000,000   Récompenses pour la communauté
 
 
-### Récompenses
+### Grandma-Reward
 
 Le programme de récompenses Grandma-Reward est un programme de staking unique qui permet aux utilisateurs de collecter une partie des frais de la plateforme.
 Quand un utilisateur effectue une transaction sur la plateforme Grandma-Factory, des frais lui sont appliqués. **15%** de ces frais seront redistribués au sein du programme de récompenses Grandma-Reward.
 
 Pour bénéficier de cette rémunération, l'utilisateur doit verrouiller des jetons Grandma-Token sur une pool de récompense Grandma-Reward.
-En contrepartie du verrouillage de ces jetons, l'utilisateur perçoit des jetons de liquidité qui activent le système de récompense.
+En contrepartie du verrouillage de ces jetons, l'utilisateur perçoit des jetons de pool qui activent le système de récompense.
 
 Les utilisateurs peuvent accroître leur rendement en mettant en jeu un certain montant de jetons. 
 Trois niveaux de récompenses sont identifiées en ce sens:
@@ -270,6 +270,55 @@ Trois niveaux de récompenses sont identifiées en ce sens:
 - "**Cachemire**",  offre un multiplicateur de **x1.5** pour le verrouillage de **500,000 GMA** minimum
 - "**Soie**", offre un multiplicateur de **x3** pour le verrouillage de **10,000,000 GMA** minimum.
 
+  
+Le programme Grandma-Reward respectera les rêgles mathématiques suivantes:  
+  
+- Formule pour le verrouillage:
+$$
+\begin{aligned}
+& L_i \rArr \text{Total Pool tokens (PT)} \\
+& S_i \rArr \text{Total GMA in pool} \\
+& n \rArr \text{Stacked GMA tokens} \\
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+PT(\relax{n}) = \frac{n*L_i}{S_i}
+\end{aligned}
+$$
+  
+- Formule pour le déverrouillage:
+$$
+\begin{aligned}
+& L_i \rArr \text{Total Pool tokens} \\
+& S_i \rArr \text{Total GMA in pool} \\
+& u \rArr \text{Unstacked Pool tokens} \\
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+GMA(\relax{u}) = \frac{u*S_i}{L_i}
+\end{aligned}
+$$
+  
+- Formule pour la reditribution des frais:
+$$
+\begin{aligned}
+& S_i \rArr \text{Total GMA in pool} \\
+& R \rArr \text{Total GMA reward} \\
+& R_i \rArr \text{Pool GMA reward} \\
+& B_i \rArr \text{Pool multiplier} 
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+R_i = R * \frac{S_i * B_i}{ \textstyle\sum_{k} S_k * B_k }
+\end{aligned}
+$$
+    
 Le second avantage est une influence accrue au sein du système Grandma-Republic.
 Les niveaux "Coton", "Cachemire" et "Soie"  bénéficient respectivement de **2x**, **3x** et **5x** plus d'influence dans les votes proposés à la communauté.
 
