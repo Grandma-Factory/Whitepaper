@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.4
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v1.0
 </p>
 
 > The first NFT marketplace focused on luxury collectible assets.
@@ -15,7 +15,7 @@ We use blockchain technology to provide exceptional assets for all.
 ### Objectives
 
 Grandma-Factory offers a decentralized finance platform for investing in a wide range of luxury goods.
-Whisely selected investments in collectors' markets can be very profitable. Only a tiny minority of the world's population has access to them today. 
+Wisely selected investments in collectors' markets can be very profitable. Only a tiny minority of the world's population has access to them today. 
 Grandma-Factory is working to change this limiting reality and is opening up this asset class to decentralized finance (DeFi) by offering tangible, anti-fragile and secure assets at a time of economic uncertainty around the world.
 
 
@@ -246,14 +246,16 @@ Other use cases will be assigned to the GMA token as the ecosystem develops and 
 - ICO Token Price: **1 GMA = 0.005 USD**
 - Fundraising Goal: **1,500,000 USD**
 - Total Tokens: **10,000,000,000 GMA**
-- Team distribution schedule: **10% each 3 months**
+- Development fund distribution schedule: **10% each 3 months**
+- Marketing & community rewards distribution schedule: **10% each month**
 
 Unsold tokens will be burned at the end of the ICO.
 
 **Distribution** of the GMA token :
 
 - 7,000,000,000 Public sale
-- 500,000,000   Presale
+- 375,000,000   Presale
+- 125,000,000   IDOs
 - 1,000,000,000 Ecosystem
 - 1,000,000,000 Development fund
 - 250,000,000   Marketing

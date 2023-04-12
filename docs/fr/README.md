@@ -1,5 +1,5 @@
 <p id=start align="center">
-  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v0.4
+  <img src="_media/logo_text_negativemdpi.png" width="550px" /> v1.0
 </p>
 
 > La première plateforme de NFTs pour produits de luxe.
@@ -242,13 +242,15 @@ D'autres usages seront attribués au GMA au fur et à mesure du développement d
 - Objectif de l'ICO: **1,500,000 USD**
 - Nombre total de jetons: **10,000,000,000 GMA**
 - Distribution des jetons de l'équipe: **10% tous les 3 mois**
+- Distribution des jetons pour le marketing et la communauté : **10% tous les mois**
 
 Les jetons non vendus seront détruits à l'issue de l'ICO.
 
 **Distribution** du jeton GMA :
 
 - 7,000,000,000 Vente public
-- 500,000,000   Prévente
+- 375,000,000   Prévente
+- 125,000,000   IDOs
 - 1,000,000,000 Ecosystème
 - 1,000,000,000 Fond de développement
 - 250,000,000   Marketing et communication
